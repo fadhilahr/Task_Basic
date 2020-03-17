@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Enigma
+ *
+ */
+module bilanganprima {
+}
